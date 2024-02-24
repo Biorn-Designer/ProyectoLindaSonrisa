@@ -1,0 +1,27 @@
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CopyComplete
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CopyComplete
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.AssemblyReference.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CoreCompileInputs.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.csproj.CopyComplete
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Business\obj\Debug\LindaSonrisa.Business.pdb

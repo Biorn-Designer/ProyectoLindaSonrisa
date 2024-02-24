@@ -1,0 +1,56 @@
+﻿<Window x:Class="LindaSonrisa.Presentation.moduloReserva"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LindaSonrisa.Presentation"
+        mc:Ignorable="d"
+       Title="moduloReserva" Height="650" Width="850" WindowStyle="None" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="873*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--// DATAGRID //-->
+        <DataGrid x:Name="dgdDataGrid" HorizontalAlignment="Left" Height="460" Margin="425,29,0,0" VerticalAlignment="Top" Width="375"/>
+        <!--// DATAGRID //-->
+
+
+        <!--// LABELS //-->
+        <Label Content="ID RESERVA:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,70,0,0" Height="26" Width="71"/>
+        <Label Content="ID CLIENTE:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,109,0,0" Height="26" Width="81"/>
+        <Label Content="ID SERVICIO:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,154,0,0" Height="26" Width="86"/>
+        <Label Content="FECHA RESERVA:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,215,0,0" Height="26" Width="99"/>
+        <Label Content="ID MODULO:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,260,0,0" Height="26" Width="81"/>
+        <Label Content="ESTADO:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="91,304,0,0" Height="26" Width="70" RenderTransformOrigin="0.543,2.173"/>
+        <!--// LABELS //-->
+
+        <!--// TEXTBOX //-->
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="229,304,0,0"/>
+        <!--// TEXTBOX //-->
+
+        <!--// COMBOBOX //-->
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="229,71,0,0"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="229,101,0,0"/>
+        <ComboBox x:Name="cboServicio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="229,146,0,0"/>
+        <ComboBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="229,260,0,0"/>
+        <!--// COMBOBOX //-->
+
+        <!--// DATEPICKER //-->
+        <DatePicker x:Name="dtpFechaNacimientoCliente" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="229,215,0,0" Height="24" Width="120"/>
+        <!--// DATEPICKER //-->
+
+        <!--// BUTTONS //-->
+        <Button x:Name="btnLimpiarCliente" Content="Limpiar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Margin="88,428,0,0" Height="36"/>
+        <Button x:Name="btnEliminarCliente" Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="202,428,0,0" Height="36"/>
+        <Button x:Name="btnModificarCliente" Content="Modificar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="94" Margin="202,371,0,0" Height="36"/>
+        <Button x:Name="btnAgregarCliente" Content="Agregar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Margin="88,373,0,0" Height="34"/>
+        <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="716,516,0,0" RenderTransformOrigin="0.507,0.475" Height="35" Click="btnVolver_Click"/>
+
+
+        <!--// BUTTONS //-->
+
+    </Grid>
+</Window>

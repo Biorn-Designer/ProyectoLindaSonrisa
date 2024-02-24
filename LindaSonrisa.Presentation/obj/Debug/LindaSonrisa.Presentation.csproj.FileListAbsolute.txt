@@ -1,0 +1,205 @@
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\molec\Desktop\Proyectos\ALPHA\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.dll
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.pdb
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.baml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CopyComplete
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.g.cs
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.baml
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.g.cs
+C:\Users\molec\Desktop\WPF\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.g.cs
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.g.cs
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.baml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CopyComplete
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.xml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.xml
+C:\Users\molec\Desktop\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.pdb
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.g.cs
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.g.cs
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.baml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.baml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.baml
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CopyComplete
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\molec\Desktop\Proyectos\Aplicacion LindaSonrisaOk\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CopyComplete
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe.config
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.exe
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Presentation.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\LindaSonrisa.Business.dll.config
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.AccessControl.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Permissions.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.AssemblyReference.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.g.cs
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation_MarkupCompile.lref
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\App.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\MainWindow.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\menuInicio.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloCliente.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\moduloReserva.baml
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.g.resources
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.Properties.Resources.resources
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.GenerateResource.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.csproj.CopyComplete
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.exe
+C:\Users\biorn\OneDrive\Escritorio\Aplicacion LindaSonrisa\AlphaSolutionSystem\LindaSonrisa.Presentation\obj\Debug\LindaSonrisa.Presentation.pdb

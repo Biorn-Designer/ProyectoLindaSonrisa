@@ -1,0 +1,55 @@
+﻿<Window x:Class="LindaSonrisa.Presentation.moduloCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LindaSonrisa.Presentation"
+        mc:Ignorable="d"
+        Title="Cliente" Height="650" Width="850" WindowStyle="None" WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="873*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dgdDataGrid" HorizontalAlignment="Left" Height="460" Margin="425,29,0,0" VerticalAlignment="Top" Width="375"/>
+        <Label Content="DIRECCIÓN:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,267,0,0" RenderTransformOrigin="0.336,0.462" Height="26" Width="73"/>
+        <Label Content="FECHA DE NACIMIENTO:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,239,0,0" Height="26" Width="140"/>
+        <Label Content="TELEFONO:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,211,0,0" Height="26" Width="70"/>
+        <Label Content="EMAIL:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,183,0,0" Height="26" Width="46"/>
+        <Label Content="APELLIDOS:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,155,0,0" Height="26" Width="71"/>
+        <Label Content="NOMBRES:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,127,0,0" Height="26" Width="68"/>
+        <Label Content="RUT CLIENTE:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,99,0,0" Height="26" Width="81"/>
+        <Label Content="ID CLIENTE:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,71,0,0" Height="26" Width="71"/>
+        <Label Content="CERTIFICADO AFP:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,379,0,0" Width="111" Height="26"/>
+        <Label Content="LIQUIDACIONES:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,351,0,0" Height="26" Width="99"/>
+        <Label Content="COMUNA:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,323,0,0" Height="26" Width="64"/>
+        <Label Content="REGIÓN:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,295,0,0" Height="26" Width="55"/>
+        <Label Content="CERTIFICADO SALUD:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,410,0,0" Width="128" Height="26"/>
+        <Label Content="FINIQUITOS:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,438,0,0" Height="26" Width="75"/>
+        <TextBox x:Name="txtCertSaludCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,410,0,0"/>
+        <TextBox x:Name="txtCertAfpCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,379,0,0"/>
+        <TextBox x:Name="txtLiquidacionesCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,351,0,0"/>
+        <TextBox x:Name="txtDireccionCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,267,0,0"/>
+        <TextBox x:Name="txtTelefonoCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,211,0,0"/>
+        <TextBox x:Name="txtEmailCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,183,0,0"/>
+        <TextBox x:Name="txtApellidoCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,155,0,0"/>
+        <TextBox x:Name="txtNombreCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,127,0,0"/>
+        <TextBox x:Name="txtIdCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,71,0,0"/>
+        <TextBox x:Name="txtFiniquitos" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,438,0,0"/>
+        <TextBox x:Name="txtRutCliente" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="145" Margin="225,99,0,0"/>
+        <DatePicker x:Name="dtpFechaNacimientoCliente" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="225,238,0,0" Height="24" Width="145"/>
+        <Button x:Name="btnLimpiarCliente" Content="Limpiar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Margin="80,598,0,0" Height="36"/>
+        <Button x:Name="btnEliminarCliente" Content="Eliminar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Margin="186,600,0,0" Height="34" Click="btnEliminarCliente_Click"/>
+        <Button x:Name="btnModificarCliente" Content="Modificar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="93" Margin="183,546,0,0" Height="36" Click="btnModificarCliente_Click"/>
+        <Button x:Name="btnAgregarCliente" Content="Agregar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" Margin="76,547,0,0" Height="34" Click="btnAgregarCliente_Click"/>
+        
+        <Button x:Name="btnVolver" Content="Volver" HorizontalAlignment="Left" VerticalAlignment="Top" Width="84" Margin="706,523,0,0" RenderTransformOrigin="0.507,0.475" Height="35" Click="btnVolver_Click"/>
+        <ComboBox x:Name="cboRegion" HorizontalAlignment="Left" VerticalAlignment="Top" Width="145" Margin="225,296,0,0">
+        </ComboBox>
+        <ComboBox x:Name="cboComuna" HorizontalAlignment="Left" VerticalAlignment="Top" Width="145" Margin="225,326,0,0"/>
+        <Button x:Name="btnActualizar" Content="Actualizar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="109" Margin="585,524,0,0" RenderTransformOrigin="0.507,0.475" Height="35" Click="btnActualizar_Click"/>
+    </Grid>
+</Window>
